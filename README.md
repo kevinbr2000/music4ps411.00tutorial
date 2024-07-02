@@ -1,4 +1,5 @@
 Hello! This is a tutorial inspired by Modded Warfare. (original vid: https://www.youtube.com/watch?v=RdtxXGr4TMU) i love you modded warfare <33
+In this tutorial i will show you people with the new 11.00 jailbreak who want to have custom music how to get custom music. 
 
 Anyways, I got an error, that maybe you got too. In FTP clients such as FileZilla, i got an error saying "File unavailable". This depends that you dont have full permission to the system storage (i think). How you fix this is:
 
